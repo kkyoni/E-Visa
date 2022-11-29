@@ -1,0 +1,3 @@
+
+	{!! Notify::render() !!}
+	@yield('authScripts')
